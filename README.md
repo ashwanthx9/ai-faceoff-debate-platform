@@ -11,7 +11,7 @@ AI Face-Off is an interactive web application where two AI models debate a given
 
 ## 🌐 Live Demo
 Run the project here:  
-👉 https://ancientbrain.com/world.php?world=4679540883  
+👉 https://ancientbrain.com/world.php?world=3592555230 
 
 ---
 
