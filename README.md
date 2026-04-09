@@ -13,7 +13,7 @@ AI Face-Off is an interactive web application where two AI models debate a given
 Run the project here:  
 👉 https://ancientbrain.com/world.php?world=3592555230 
 
----
+
 
 ## ▶️ How to Use
 1. Click **Start**  
@@ -26,7 +26,7 @@ Run the project here:
 5. Click **Start** to generate arguments  
 6. Click **Evaluate** to see the winner  
 
----
+
 
 ## 🚀 Features
 - AI vs AI debate (Gemini vs Cohere)  
@@ -35,7 +35,7 @@ Run the project here:
 - Real-time event tracking  
 - Simple interactive UI  
 
----
+
 
 ## 🛠️ Tech Stack
 - JavaScript (Vanilla)  
@@ -46,7 +46,7 @@ Run the project here:
   - Cohere AI  
   - OpenAI (GPT)  
 
----
+
 
 ## 🔑 Requirements
 - Google Gemini API key  
